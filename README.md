@@ -1,3 +1,7 @@
+![Traffic Light Simulation](Traffic_Light_Simulation_On_Proteus.gif)
+# 🚦 Embedded Traffic Light Controller
+### Built with ATmega32 & Modular Embedded C Architecture
+... (باقي التن
 <div align="center">
 
 # 🚦 Embedded Traffic Light Controller
